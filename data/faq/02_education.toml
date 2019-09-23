@@ -1,0 +1,8 @@
+[[item]]
+    weight = 1
+    question = "I would like to learn how to use Orange. Where can I find the resources?"
+    answer = "Widget documentation is available on our website . You can also access the same documentation directly from Orange by selecting the widget and pressing F1. We also provide an e-mail course ( subscribe here), beginner-level YouTube tutorials and a regularly updated name."
+    parent = "education"
+
+[params]
+    title = "Education"
